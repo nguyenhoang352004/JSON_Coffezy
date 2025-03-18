@@ -1,0 +1,43 @@
+{
+  "o1cagiecd1bTFlmEJkzJ": {
+    "totalPrice": 12,
+    "items": [
+      {
+        "quantity": 1,
+        "imageResId": 2131165471,
+        "productId": "0kdvPQ9M4dy6MXTqAqMi",
+        "size": "Small",
+        "price": 8,
+        "name": "Latte",
+        "toppings": ["Strawberry", "Chocolate", "Caramel", "Banana"]
+      }
+    ],
+    "timestamp": 1742221219316,
+    "status": "pending"
+  },
+  "wDlxrw7bZAxViBvFBS4R": {
+    "totalPrice": 10.3,
+    "items": [
+      {
+        "quantity": 1,
+        "imageResId": 2131165471,
+        "productId": "0kdvPQ9M4dy6MXTqAqMi",
+        "size": "Small",
+        "price": 6,
+        "name": "Latte",
+        "toppings": ["Chocolate", "Banana"]
+      },
+      {
+        "quantity": 1,
+        "imageResId": 2131165474,
+        "productId": "Lfj7BBQI2Xfjjllsbv3s",
+        "size": "Small",
+        "price": 1.3,
+        "name": "Profiterol",
+        "toppings": ["Chocolate"]
+      }
+    ],
+    "timestamp": 1742219607463,
+    "status": "pending"
+  }
+}

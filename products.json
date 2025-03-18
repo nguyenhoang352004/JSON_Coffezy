@@ -1,0 +1,82 @@
+{
+  "0kdvPQ9M4dy6MXTqAqMi": {
+    "image": 2131165471,
+    "productCode": "SP04",
+    "price": 4,
+    "name": "Latte",
+    "rating": 4,
+    "detail": "Latte, short for Caffè Latte, is a popular coffee beverage made with espresso and steamed milk, topped with a light layer of foam.It has a rich, creamy texture and a balanced coffee flavor, making it a favorite choice for those who enjoy a milder coffee taste.",
+    "type": "C01",
+    "favorite": true
+  },
+  "3uo4wUABml2tW8zMKbs2": {
+    "image": 2131165475,
+    "productCode": "SP03",
+    "price": 14.22,
+    "name": "Tuna salad",
+    "rating": 4.3,
+    "detail": "Tuna salad is a nutritious and delicious dish made with canned or fresh tuna, mixed with various ingredients to enhance its flavor and texture. It is commonly served as a sandwich filling, on top of leafy greens, or as a standalone dish.",
+    "type": "C05",
+    "favorite": true
+  },
+  "6XKpdbpILgysFvzTwDZ0": {
+    "image": 2131165469,
+    "productCode": "SP01",
+    "price": 2.5,
+    "name": "Cappuccino",
+    "rating": 4.5,
+    "detail": "A creamy coffee with milk foam. This classic Italian coffee is made with a balanced mix of espresso, steamed milk, and a generous layer of velvety milk foam on top. Perfect for those who enjoy a smooth yet rich coffee experience. Best served hot and pairs well with a sweet pastry.",
+    "type": "C01",
+    "favorite": false
+  },
+  "JUVHSVKylByRvyq7wHAw": {
+    "image": 2131165473,
+    "productCode": "SP08",
+    "price": 10.11,
+    "name": "Mojito Mocktail",
+    "rating": 4.2,
+    "detail": "The Mojito Mocktail is a delightful non-alcoholic version of the classic Mojito, offering a refreshing blend of mint, lime, and sweetness with a bubbly twist. It's perfect for hot summer days, parties, or as a delicious alternative for those who prefer alcohol-free beverages.",
+    "type": "C04",
+    "favorite": true
+  },
+  "Lfj7BBQI2Xfjjllsbv3s": {
+    "image": 2131165474,
+    "productCode": "SP05",
+    "price": 1.3,
+    "name": "Profiterol",
+    "rating": 5,
+    "detail": "A profiterole, also known as a cream puff, is a small, round pastry made from choux pastry and filled with whipped cream, custard, or ice cream.It is often topped with chocolate sauce, caramel, or powdered sugar, making it a decadent dessert.",
+    "type": "C02",
+    "favorite": true
+  },
+  "nNCWyx4DKHwBO5yysOcY": {
+    "image": 2131165472,
+    "productCode": "SP07",
+    "price": 9.2,
+    "name": "Matcha",
+    "rating": 4.9,
+    "detail": "Matcha is a finely ground powder made from specially grown green tea leaves. Unlike regular green tea, which is steeped and discarded, matcha uses the entire leaf, making it richer in nutrients and antioxidants.It has a vibrant green color, earthy aroma, and a smooth, slightly sweet, umami taste.",
+    "type": "C01",
+    "favorite": true
+  },
+  "wXB4CCdKFukFLJWbXQ2L": {
+    "image": 2131165470,
+    "productCode": "SP02",
+    "price": 3,
+    "name": "Espresso",
+    "rating": 4.9,
+    "detail": "Strong black coffee. A pure shot of rich, concentrated coffee brewed under high pressure to bring out deep flavors and aromas.Ideal for coffee lovers who appreciate boldness and intensity. Can be enjoyed as a quick energy boost or as a base for other coffee drinks like lattes and cappuccinos.",
+    "type": "C01",
+    "favorite": true
+  },
+  "yn6fWJuO9ObedlYHLTXI": {
+    "image": 2131165476,
+    "productCode": "SP06",
+    "price": 20.45,
+    "name": "White Wine",
+    "rating": 4.2,
+    "detail": "White wine is a type of wine made from green, yellow, or even red-skinned grapes with the skins removed before fermentation.It has a light, refreshing, and crisp taste, often with fruity, floral, or citrusy notes.",
+    "type": "C03",
+    "favorite": false
+  }
+}
