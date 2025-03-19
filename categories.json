@@ -1,27 +1,27 @@
-{
-  "Ae8dl4PsALHcssgvf5RX": {
+[
+  {
     "image": 2131165466,
     "code": "C04",
     "name": "BREAKFAST"
   },
-  "XzTXRStjrL6XLaqPTjGm": {
+  {
     "image": 2131165467,
     "code": "C05",
     "name": "ALCOHOL FREE"
   },
-  "frlrD7e9R3DVuaHWIxg1": {
+  {
     "image": 2131165468,
     "code": "C03",
     "name": "ALCOHOL"
   },
-  "nLIWcqtZXIWbNhEDdlJo": {
+  {
     "image": 2131165464,
     "code": "C01",
     "name": "COFFEE"
   },
-  "xYHnyBS43rgoLuYXltQv": {
+  {
     "image": 2131165465,
     "code": "C02",
     "name": "DESSERTS"
   }
-}
+]
