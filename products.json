@@ -1,82 +1,233 @@
 [
   {
-    "image": 2131165471,
-    "productCode": "SP04",
-    "price": 4,
-    "name": "Latte",
-    "rating": 4,
-    "detail": "Latte, short for Caffè Latte, is a popular coffee beverage made with espresso and steamed milk, topped with a light layer of foam.It has a rich, creamy texture and a balanced coffee flavor, making it a favorite choice for those who enjoy a milder coffee taste.",
-    "type": "C01",
-    "favorite": true
-  },
-  {
-    "image": 2131165475,
-    "productCode": "SP03",
-    "price": 14.22,
-    "name": "Tuna salad",
-    "rating": 4.3,
-    "detail": "Tuna salad is a nutritious and delicious dish made with canned or fresh tuna, mixed with various ingredients to enhance its flavor and texture. It is commonly served as a sandwich filling, on top of leafy greens, or as a standalone dish.",
-    "type": "C05",
-    "favorite": true
-  },
-  {
-    "image": 2131165469,
+    "images": [2131165469, 2131165503],
     "productCode": "SP01",
     "price": 2.5,
     "name": "Cappuccino",
     "rating": 4.5,
-    "detail": "A creamy coffee with milk foam. This classic Italian coffee is made with a balanced mix of espresso, steamed milk, and a generous layer of velvety milk foam on top. Perfect for those who enjoy a smooth yet rich coffee experience. Best served hot and pairs well with a sweet pastry.",
+    "detail": "Cappuccino is a popular Italian coffee drink that consists of a perfect balance between a rich espresso shot, steamed milk, and a thick layer of creamy milk foam. Known for its velvety texture and strong coffee flavor, cappuccino is a favorite choice for coffee lovers. It is often topped with a sprinkle of cocoa powder or cinnamon for extra aroma and taste. This drink is best enjoyed in the morning or as an afternoon treat with a pastry.",
     "type": "C01",
-    "favorite": false
+    "favorite": true,
+    "__collections__": {}
   },
   {
-    "image": 2131165473,
-    "productCode": "SP08",
-    "price": 10.11,
-    "name": "Mojito Mocktail",
-    "rating": 4.2,
-    "detail": "The Mojito Mocktail is a delightful non-alcoholic version of the classic Mojito, offering a refreshing blend of mint, lime, and sweetness with a bubbly twist. It's perfect for hot summer days, parties, or as a delicious alternative for those who prefer alcohol-free beverages.",
-    "type": "C04",
-    "favorite": true
-  },
-  {
-    "image": 2131165474,
-    "productCode": "SP05",
-    "price": 1.3,
-    "name": "Profiterol",
-    "rating": 5,
-    "detail": "A profiterole, also known as a cream puff, is a small, round pastry made from choux pastry and filled with whipped cream, custard, or ice cream.It is often topped with chocolate sauce, caramel, or powdered sugar, making it a decadent dessert.",
-    "type": "C02",
-    "favorite": true
-  },
-  {
-    "image": 2131165472,
-    "productCode": "SP07",
-    "price": 9.2,
-    "name": "Matcha",
-    "rating": 4.9,
-    "detail": "Matcha is a finely ground powder made from specially grown green tea leaves. Unlike regular green tea, which is steeped and discarded, matcha uses the entire leaf, making it richer in nutrients and antioxidants.It has a vibrant green color, earthy aroma, and a smooth, slightly sweet, umami taste.",
-    "type": "C01",
-    "favorite": true
-  },
-  {
-    "image": 2131165470,
+    "images": [2131165470, 2131165509, 2131165510],
     "productCode": "SP02",
     "price": 3,
     "name": "Espresso",
     "rating": 4.9,
-    "detail": "Strong black coffee. A pure shot of rich, concentrated coffee brewed under high pressure to bring out deep flavors and aromas.Ideal for coffee lovers who appreciate boldness and intensity. Can be enjoyed as a quick energy boost or as a base for other coffee drinks like lattes and cappuccinos.",
+    "detail": "Espresso is a bold and concentrated coffee brewed by forcing hot water through finely-ground coffee beans under high pressure. This process creates a rich and flavorful shot with a thick, golden crema on top. Despite its small serving size, espresso delivers a powerful caffeine kick, making it an excellent choice for those who enjoy strong coffee. It serves as the base for many other coffee beverages, such as lattes, cappuccinos, and macchiatos.",
     "type": "C01",
-    "favorite": true
+    "favorite": false,
+    "__collections__": {}
   },
   {
-    "image": 2131165476,
+    "images": [2131165475, 2131165529, 2131165530],
+    "productCode": "SP03",
+    "price": 14.22,
+    "name": "Tuna Salad",
+    "rating": 4.3,
+    "detail": "Tuna salad is a light yet satisfying dish made with fresh or canned tuna, crisp vegetables, and a creamy dressing. It is packed with protein, omega-3 fatty acids, and essential vitamins, making it a healthy choice for lunch or dinner. The salad is often mixed with ingredients like lettuce, tomatoes, cucumbers, and olives, creating a refreshing and nutritious meal. It can be served on a bed of greens, as a sandwich filling, or with crackers for a delightful appetizer.",
+    "type": "C05",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165471, 2131165513],
+    "productCode": "SP04",
+    "price": 4,
+    "name": "Latte",
+    "rating": 4,
+    "detail": "Latte, short for Caffè Latte, is a smooth and creamy coffee drink made with espresso and steamed milk. The combination of strong coffee and frothy milk creates a rich, velvety texture, making it one of the most beloved coffee beverages. The latte is often topped with a thin layer of milk foam and can be flavored with syrups like vanilla, caramel, or hazelnut for added sweetness. Baristas sometimes create intricate latte art on top, making each cup visually appealing.",
+    "type": "C01",
+    "favorite": true,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165474, 2131165519, 2131165520],
+    "productCode": "SP05",
+    "price": 1.3,
+    "name": "Profiterole",
+    "rating": 5,
+    "detail": "A profiterole, also known as a cream puff, is a classic French pastry made from light choux dough filled with sweet and creamy custard or whipped cream. These bite-sized delights are often topped with a rich chocolate glaze or dusted with powdered sugar, adding an extra layer of sweetness. Profiteroles are a popular dessert choice for celebrations and can be served individually or stacked in a tower called a croquembouche.",
+    "type": "C02",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165476, 2131165531],
     "productCode": "SP06",
     "price": 20.45,
     "name": "White Wine",
     "rating": 4.2,
-    "detail": "White wine is a type of wine made from green, yellow, or even red-skinned grapes with the skins removed before fermentation.It has a light, refreshing, and crisp taste, often with fruity, floral, or citrusy notes.",
+    "detail": "White wine is a refined and elegant alcoholic beverage made from green or yellowish grapes. It has a crisp, refreshing taste with fruity and floral notes, making it a perfect companion for seafood, chicken dishes, and light appetizers. Depending on the variety, white wine can range from dry to sweet, with popular options including Chardonnay, Sauvignon Blanc, and Riesling. It is best served chilled to enhance its delicate flavors and aromas.",
     "type": "C03",
-    "favorite": false
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165472, 2131165514],
+    "productCode": "SP07",
+    "price": 9.2,
+    "name": "Matcha",
+    "rating": 4.9,
+    "detail": "Matcha is a finely ground green tea powder made from specially grown and processed tea leaves. Unlike regular tea, where the leaves are steeped and discarded, matcha is whisked into hot water, allowing you to consume the entire leaf and gain its full health benefits. Rich in antioxidants, matcha provides a gentle energy boost and improves focus. It has a smooth, slightly grassy flavor with a hint of natural sweetness. Matcha can be enjoyed as a traditional tea, in lattes, or even in desserts like cakes and ice cream.",
+    "type": "C01",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165473, 2131165515, 2131165516],
+    "productCode": "SP08",
+    "price": 10.11,
+    "name": "Mojito Mocktail",
+    "rating": 4.2,
+    "detail": "The Mojito Mocktail is a refreshing and zesty non-alcoholic drink that combines fresh mint leaves, lime juice, sugar, and soda water. This vibrant beverage is perfect for warm days, offering a cool and invigorating taste with a balance of sweetness and acidity. The muddled mint leaves release their natural oils, enhancing the aroma and flavor. This mocktail is a great alternative for those who enjoy the classic mojito but prefer a non-alcoholic option.",
+    "type": "C04",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165507, 2131165508],
+    "productCode": "SP09",
+    "price": 3.5,
+    "name": "Croissant",
+    "rating": 4.7,
+    "detail": "A croissant is a classic French pastry known for its flaky, buttery layers and soft interior. Made with flour, butter, and yeast, this crescent-shaped delight is often enjoyed with butter, jam, or chocolate. It's a popular breakfast choice worldwide.",
+    "type": "C02",
+    "favorite": true,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165521, 2131165522],
+    "productCode": "SP10",
+    "price": 22.5,
+    "name": "Red Wine",
+    "rating": 4.3,
+    "detail": "Red wine is crafted from dark-colored grape varieties, offering a rich and smooth taste. It pairs well with elegant meals and is known for its antioxidant properties, making it a favorite choice for wine lovers.",
+    "type": "C03",
+    "favorite": true,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165504, 2131165505, 2131165506],
+    "productCode": "SP11",
+    "price": 7,
+    "name": "Cheesecake",
+    "rating": 4.8,
+    "detail": "Cheesecake is a rich and creamy dessert with a crunchy biscuit base and a smooth cream cheese topping. It comes in various flavors with toppings like strawberries, blueberries, or chocolate, offering the perfect balance of sweetness and texture.",
+    "type": "C02",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165526, 2131165527, 2131165528],
+    "productCode": "SP12",
+    "price": 25.99,
+    "name": "Grilled Steak",
+    "rating": 4.6,
+    "detail": "Grilled steak is a premium dish made from high-quality beef, seasoned lightly, and grilled to perfection. The meat is juicy and tender, often paired with pepper sauce or garlic butter for an extra burst of flavor.",
+    "type": "C05",
+    "favorite": true,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165523, 2131165524, 2131165525],
+    "productCode": "SP13",
+    "price": 12.99,
+    "name": "Spaghetti",
+    "rating": 4.6,
+    "detail": "Spaghetti is a classic Italian pasta dish loved worldwide for its simple yet delicious flavors. Made from durum wheat pasta, spaghetti is commonly paired with rich and savory sauces such as marinara, Bolognese, or Alfredo. It is often garnished with fresh basil, grated Parmesan cheese, and a drizzle of olive oil for enhanced flavor. This dish is a comforting meal that can be enjoyed with a side of garlic bread or a fresh salad.",
+    "type": "C05",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165511, 2131165512],
+    "productCode": "SP14",
+    "price": 5,
+    "name": "Blue Hawaiian",
+    "rating": 4.5,
+    "detail": "Blue Hawaiian Cocktail is a refreshing beverage made from fresh lemon juice, sugar, and water. Sometimes, mint leaves or ice cubes are added for extra freshness. This drink is perfect for hot days and is packed with vitamin C.",
+    "type": "C04",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165517, 2131165518],
+    "productCode": "SP15",
+    "price": 11.49,
+    "name": "Pineapple Paradise",
+    "rating": 4.8,
+    "detail": "The Tropical Pineapple Paradise is a refreshing cocktail designed for beach lovers. This vibrant drink combines fresh pineapple juice, coconut milk, and a hint of lime for a perfectly balanced tropical flavor. Served over crushed ice, it delivers a smooth and cooling sensation with every sip. A touch of honey enhances the natural sweetness, while a splash of soda water adds a light fizz. Garnished with a pineapple slice and a mint sprig, this cocktail is the ultimate tropical escape in a glass, perfect for unwinding by the beach or poolside.",
+    "type": "C04",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165539, 2131165540],
+    "productCode": "SP16",
+    "price": 4.2,
+    "name": "Macchiato",
+    "rating": 4.6,
+    "detail": "Macchiato is a bold espresso drink with a small amount of steamed milk, creating a perfect balance between strong coffee flavor and subtle creaminess. It’s ideal for those who enjoy a robust coffee experience with a hint of smoothness.",
+    "type": "C01",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165547, 2131165548, 2131165549],
+    "productCode": "SP17",
+    "price": 6.5,
+    "name": "Tiramisu",
+    "rating": 4.9,
+    "detail": "Tiramisu is a luxurious Italian dessert made with layers of coffee-soaked ladyfingers, creamy mascarpone cheese, and cocoa powder. Its rich and velvety texture makes it a favorite treat for coffee and dessert lovers alike.",
+    "type": "C02",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165537, 2131165538],
+    "productCode": "SP18",
+    "price": 8,
+    "name": "Berry Smoothie",
+    "rating": 4.7,
+    "detail": "A refreshing blend of mixed berries, yogurt, and honey, this smoothie is packed with antioxidants and vitamins. It’s a perfect choice for a healthy and delicious energy boost any time of the day.",
+    "type": "C04",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165545, 2131165546],
+    "productCode": "SP19",
+    "price": 23.99,
+    "name": "Grilled Salmon Steak",
+    "rating": 4.8,
+    "detail": "Grilled salmon steak is a nutritious and flavorful dish featuring a perfectly cooked salmon fillet, seasoned with herbs and served with a side of vegetables. It’s rich in omega-3 fatty acids and perfect for a healthy diet.",
+    "type": "C05",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165541, 2131165542],
+    "productCode": "SP20",
+    "price": 12.5,
+    "name": "Margarita",
+    "rating": 4.8,
+    "detail": "Margarita is a popular Mexican cocktail made with tequila, lime juice, and triple sec. Served with a salted rim, this drink has a perfect balance of sweetness and acidity, making it a refreshing choice for cocktail lovers.",
+    "type": "C03",
+    "favorite": false,
+    "__collections__": {}
+  },
+  {
+    "images": [2131165543, 2131165544],
+    "productCode": "SP21",
+    "price": 18,
+    "name": "Rum",
+    "rating": 4.5,
+    "detail": "Rum is a smooth and versatile spirit distilled from sugarcane byproducts like molasses. It has a rich, caramel-like sweetness and is used in many classic cocktails such as the Mojito, Piña Colada, and Daiquiri.",
+    "type": "C03",
+    "favorite": false,
+    "__collections__": {}
   }
 ]
